@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "91C80AD7-4779-47E5-8539-C03A6A4C12B9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDAB314A-E4BC-41B0-8DC6-3275518240EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HW 2.1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "yellowLabel"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DDAB314A-E4BC-41B0-8DC6-3275518240EC - 9931b94c825a2aca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW_2_1.ViewController.yellowLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HW 2.1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dina/Desktop/SBCourse1%20/Module%202%20/My%20Home%20Work/HW%202.1/HW%202.1/HW%202.1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "DDAB314A-E4BC-41B0-8DC6-3275518240EC - e8bc9579e10d4136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW_2_1.ViewController.yellowLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HW 2.1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dina/Desktop/SBCourse1%20/Module%202%20/My%20Home%20Work/HW%202.1/HW%202.1/HW%202.1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "DDAB314A-E4BC-41B0-8DC6-3275518240EC - 22638a6c25f186f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW_2_1.ViewController.yellowLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "HW 2.1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dina/Desktop/SBCourse1%20/Module%202%20/My%20Home%20Work/HW%202.1/HW%202.1/HW%202.1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "DDAB314A-E4BC-41B0-8DC6-3275518240EC - bbd7e8e13717a7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW_2_1.ViewController.yellowLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HW 2.1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dina/Desktop/SBCourse1%20/Module%202%20/My%20Home%20Work/HW%202.1/HW%202.1/HW%202.1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "DDAB314A-E4BC-41B0-8DC6-3275518240EC - 8023583018196426"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW_2_1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HW_2_1.ViewController"
+                  moduleName = "HW 2.1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dina/Desktop/SBCourse1%20/Module%202%20/My%20Home%20Work/HW%202.1/HW%202.1/HW%202.1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "DDAB314A-E4BC-41B0-8DC6-3275518240EC - 5be8fad4ae96b91c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW_2_1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HW_2_1.ViewController&gt;"
+                  moduleName = "HW 2.1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dina/Desktop/SBCourse1%20/Module%202%20/My%20Home%20Work/HW%202.1/HW%202.1/HW%202.1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "321">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B24E49D4-D510-459D-ADA0-E0C8B2DFED2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HW 2.1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "379D678C-06E3-43DF-8308-C8144AA1A0DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HW 2.1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

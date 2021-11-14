@@ -11,6 +11,8 @@ enum CurrentLight {
     case red, yellow, green
 }
 
+/* enum можно и класс ниже внести, но лучше либо вне, либо делать отдельный файл. Если все же в классе, то лучше писать экспеншен */
+
 class ViewController: UIViewController {
     
     @IBOutlet var redLabel: UILabel!
